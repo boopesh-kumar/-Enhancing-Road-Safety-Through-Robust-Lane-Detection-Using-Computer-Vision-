@@ -34,3 +34,4 @@ Ground truth annotations or manual labeling of lane markings for training and va
 Output1 - Input of dataset
 ![output 1](https://github.com/boopesh-kumar/-Enhancing-Road-Safety-Through-Robust-Lane-Detection-Using-Computer-Vision-/blob/main/Screenshot%202024-03-21%20085115.png)
 
+Output2 - Final Output

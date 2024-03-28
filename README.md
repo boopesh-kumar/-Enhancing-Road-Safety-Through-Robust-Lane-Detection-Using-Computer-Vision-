@@ -36,3 +36,12 @@ Output1 - Input of dataset
 
 Output2 - Final Output
 ![output 2](https://github.com/boopesh-kumar/-Enhancing-Road-Safety-Through-Robust-Lane-Detection-Using-Computer-Vision-/blob/main/Screenshot%202024-03-21%20084803.png)
+
+# Rules and Impact
+The system should strive for high accuracy and reliability in lane detection, minimizing false positives and false negatives to ensure trustworthy operation.
+
+The project lays the foundation for the development of autonomous driving systems by providing essential capabilities for lane keeping and navigation in autonomous vehicles.
+
+# Articles published / References
+1. Farag, Wael & Saleh, Zakaria. (2018). Road Lane-Lines Detection in Real-Time for Advanced Driving Assistance Systems. 1-8. 10.1109/3ICT.2018.8855797.
+2. [2]	Khalifa, Othman & Islam, Md & Assidi, Abdulhakam & Abdullah, Aisha-Hassan & Khan, Sheroz. (2011). Vision Based Road Lane Detection System for Vehicles Guidance. Australian Journal of Basic and Applied Sciences. 5. 728-738.

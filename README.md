@@ -28,3 +28,4 @@ Diverse dataset of images and videos containing different road scenarios, lighti
 Ground truth annotations or manual labeling of lane markings for training and validation.
 
 # System Architecture
+![System Architecture](https://github.com/boopesh-kumar/-Enhancing-Road-Safety-Through-Robust-Lane-Detection-Using-Computer-Vision-/blob/main/SA%20diagram.png)
